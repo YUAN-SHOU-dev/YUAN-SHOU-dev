@@ -31,7 +31,6 @@ Hi, I'm YUAN SHOU. I enjoy starting with a question or a story and exploring it 
 | 项目 / Project | 简介 / Overview |
 | :--- | :--- |
 | [**AI 文字游戏生成器**](https://github.com/YUAN-SHOU-dev/ai_class_chatgame) | 从故事或世界观生成游戏蓝图、推荐角色身份并开始游玩。 / Turn a story or fictional world into a game blueprint, character options, and a playable text adventure. |
-| [**平台消费小实验**](https://github.com/YUAN-SHOU-dev/platform-consumption-stat-lab) | 通过平台消费场景、样本对比和统计闯关，探索从百分比到统计解释的过程。 / Explore platform consumption through interactive choices, sample comparisons, and guided statistical explanations. |
 | [**baiyang-land**](https://github.com/YUAN-SHOU-dev/baiyang-land) | 接入 DeepSeek 与 DashScope 的 AI 网页实验，探索对话与图像生成。 / An AI web experiment exploring conversational and image generation features with DeepSeek and DashScope. |
 
 这些仓库包含学习项目与探索性原型，具体功能和运行方式请查看各项目说明。  
