@@ -16,9 +16,7 @@ AI Applications · Interactive Storytelling · Data Exploration
 
 ## 关于我 / About me
 
-你好，我是 YUAN SHOU。我喜欢从一个具体的问题或故事出发，尝试用 AI、网页交互和数据可视化做出可以体验的原型。这里记录我的项目、实验，以及持续学习的过程。
-
-Hi, I'm YUAN SHOU. I enjoy starting with a question or a story and exploring it through AI, interactive web experiences, and data visualization. This is where I share projects, experiments, and what I learn along the way.
+Hi, I'm yuanshou, a college student sharing little tools and fun stuff here. A second-rate AI developer, learning as I go.
 
 ## 探索方向 / What I explore
 
